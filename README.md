@@ -1,3 +1,4 @@
+<img width="1908" height="1908" alt="1000002930" src="https://github.com/user-attachments/assets/d078417d-614a-40ec-97d4-fdd7937089a5" />
 # fictional-octo-succotash
 my home
 # 我的第一个项目  
